@@ -1,0 +1,12 @@
+.container{
+    margin: 30px;
+    padding: 10px;;
+    border:2px solid black;
+
+}
+.btn{
+    margin: 2px;
+}
+.btn-primary{
+    margin: 5px 5px;
+}
